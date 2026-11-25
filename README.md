@@ -2,7 +2,7 @@
 
 **Laravel / Full-Stack Developer** with a systems-programming foundation — I build production web apps and write low-level software from scratch.
 
-Currently a **Laravel Developer at JKSoftware** in Athens, finishing my **Zone01** full-stack training (42/1337 network), where I've been building servers, shells, networks and full-stack apps from first principles since 2024.
+Currently a **Laravel Developer at JKSoftware** in Athens, having finished my **Zone01** full-stack training (42/1337 network), where I've been building servers, shells, networks and full-stack apps from first principles since 2024.
 
 ---
 
@@ -15,8 +15,6 @@ Currently a **Laravel Developer at JKSoftware** in Athens, finishing my **Zone01
 | Data & Infra | MySQL · SQLite · Redis · Docker · Linux · Git · GitHub Actions |
 
 ## 🚀 Selected Projects
-
-> 🔒 Repos are **private** while I finish my curriculum at Zone01 — they go public after graduation.
 
 - **Pulse — Social Network Web App** — Go · TypeScript · Docker · GitHub Actions. Full-stack social platform with real-time capabilities and privacy-focused design.
 - **Forum** *(group)* — Go forum with authentication, image upload and security hardening, built as incremental feature branches merged into one codebase.
@@ -38,7 +36,7 @@ Currently a **Laravel Developer at JKSoftware** in Athens, finishing my **Zone01
 - **Laravel Developer · JKSoftware** — May 2026 → present. SaaS apps with Laravel, Filament and Livewire; e-commerce integrations (3 third-party APIs); 15–20 support tickets/week on live products.
 - **Full-Stack Developer · ProgressNet** — Dec 2025 → Mar 2026. Full-stack features in PHP and TypeScript.
 - **Full-Stack Developer · Travel Agency (B2B Platform)** — Mar 2025 → Dec 2025. Laravel, Next.js/React, MySQL, Redis — a platform serving 80+ travel agencies worldwide.
-- **Mentor Assistant · Zone01 Athens** — Apr 2024 → present. Guiding peers on bugs, algorithms and coding practices; auditing project submissions.
+- **Mentor Assistant · Zone01 Athens** — Apr 2024 → Oct 2026. Guiding peers on bugs, algorithms and coding practices; auditing project submissions.
 
 ## 🏆 Achievements
 
@@ -52,4 +50,4 @@ Currently a **Laravel Developer at JKSoftware** in Athens, finishing my **Zone01
 
 - 📧 eddiepavel@gmail.com
 - 💼 [LinkedIn — in/edouardospavel](https://linkedin.com/in/edouardospavel)
-- 🌍 Relocating to Oradea, Romania (Oct 2026) — open to on-site, hybrid & remote
+- 🌍 Oradea, Romania — open to on-site, hybrid & remote
